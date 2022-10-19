@@ -3,7 +3,7 @@
 WHU-Photogrammetric-AIwork
 
 
-使用航空影像建筑物数据集(WHU-Aerial-imagery-dataset)(http://gpcv.whu.edu.cn/data/building_dataset.html)，训练一个稳健的Unet 模型，以识别影像中的房屋建筑物。统计精度指标结果如 IoU，dice loss，召回率等。  
+使用航空影像建筑物数据集(WHU-Aerial-imagery-dataset)(dataset download:http://gpcv.whu.edu.cn/data/building_dataset.html)， 训练一个稳健的Unet 模型，以识别影像中的房屋建筑物。统计精度指标结果如 IoU，dice loss，召回率等。  
 1. 了解深度学习 train,test,validation 数据的概念。  
 2. 了解语义分割的概念，语义分割与目标检测的区别。  
 3. 了解多种精度指标。 
