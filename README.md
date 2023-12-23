@@ -1,6 +1,4 @@
-#Unet
-
-WHU-Photogrammetric-AIwork
+# Unet-Based WHU-Photogrammetric-AIwork
 
 
 使用航空影像建筑物数据集(WHU-Aerial-imagery-dataset)(dataset download:http://gpcv.whu.edu.cn/data/building_dataset.html)， 训练一个稳健的Unet 模型，以识别影像中的房屋建筑物。统计精度指标结果如 IoU，dice loss，召回率等。  
